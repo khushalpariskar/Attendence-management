@@ -1,0 +1,11 @@
+1.Student has to attend the class as per the schedule only.
+2.Attendence of the day for the student will be based on:-
+a)TOTAL TIME SPENT IN THE CLASS.
+b)ALONG WITH POLL MARKED MARKED.
+3.Here attendence is mainly based on the point form  and points will mainly 	come from:-
+a)The total minutes the Student spent in the class or the total minutes updated in the counter , where 1 minute=1point.
+b)The number of Status poll markes as ‘YES’ by the Studnet in between the class where 1 status poll=5point.
+i.Poll will be generated randomly at any point of time.
+4.Total count=point earned by total minutes spent on the class
++
+point earned by total status poll marked.
